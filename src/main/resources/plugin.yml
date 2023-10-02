@@ -1,0 +1,10 @@
+name: MoonBook
+version: ${project.version}
+main: ru.quenteez.moonbook.MoonBook
+api-version: 1.20
+author: Quenteez
+commands:
+  news:
+    description: "News command"
+    aliases:
+      - lastpost

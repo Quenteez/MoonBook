@@ -1,0 +1,17 @@
+database:
+  host: localhost
+  port: 3306
+  database: ""
+  username: ""
+  password: ""
+  pool-settings:
+    maximum-pool-size: 10
+    minimum-idle: 1
+    maximum-lifetime: 90000
+    idle-timeout: 30000
+    connection-timeout: 5000
+
+vkontakte:
+  clientId: 1
+  serviceToken: ""
+  groupId: 1
